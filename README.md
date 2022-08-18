@@ -11,8 +11,6 @@
 - 📫 How to reach me **geral@ice41.pt**
 
 - ⚡ Private server programer: web games, Minecraft,Metin2,7daystodie,csgo server,fivem rp server,...
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
