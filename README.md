@@ -23,7 +23,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&locale=en" alt="ice41" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&locale=en" alt="ice41" /></p>
 
 
 
