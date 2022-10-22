@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Eduardo isidoro <i>ice41</i></h1>
+<h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i></h1>
 <h3 align="center">Back-end developer from Portugal</h3>
 
 - 🔭 I’m currently working on **Republica do Brasil RP**
