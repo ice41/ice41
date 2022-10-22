@@ -24,4 +24,4 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&locale=en" alt="ice41" /></p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ice41&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Ice41](http://github-readme-streak-stats.herokuapp.com?user=ice41&theme=dark&background=000000)](https://git.io/streak-stats)
