@@ -1,10 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i></h1>
-<h3 align="center">Back-end developer from Portugal</h3>
+<h3 align="center">Back-end developer from Portugal</h3> [![Next][Next.js]][Next-url]
 
-- 🔭 I’m currently working on **Republica do Brasil RP**
+- 🔭 I’m currently working on **Programing**
 
-- 🌱 I’m currently learning **css,Js**
+- 🌱 I’m currently learning **css,Js,c#**
 
 - 💬 Ask me about **LUA, MySQL, Html, php.**
 
@@ -28,3 +27,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ice41&theme=sea&hide_border=true&border_radius=8&locale=pt-br&date_format=j%20M%5B%20Y%5D&stroke=000000)](https://git.io/streak-stats)
+
+
