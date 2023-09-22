@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i></h1>
 <h3 align="center">Back-end developer from Portugal</h3>
 
-- 🔭 I’m currently working on **Programing**
+- 🔭 I’m currently working on **Logistics operational technician**
 
 - 🌱 I’m currently learning **css,Js,c#**
 
 - 💬 Ask me about **LUA, MySQL, Html, php.**
 
-- 📫 How to reach me **geral@ice41.pt**
+- 📫 How to reach me **ice41pt@gmail.com / geral@ice41.pt**
 
 - ⚡ Private server programer: web games, Minecraft,Metin2,7daystodie,csgo server,fivem rp server,...
 <p align="left">
