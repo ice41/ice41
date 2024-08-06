@@ -25,8 +25,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&locale=en" alt="ice41" />
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
