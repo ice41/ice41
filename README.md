@@ -26,7 +26,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ice41&theme=sea&hide_border=true&border_radius=8&locale=pt-br&date_format=j%20M%5B%20Y%5D&stroke=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
 <p align="left">
