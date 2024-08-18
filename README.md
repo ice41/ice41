@@ -32,3 +32,5 @@
 <p align="left">
   <a href="https://discord.com/users/261642084463804416/"><img src="https://discord.c99.nl/widget/theme-1/261642084463804416.png" /></a><br>
 </p>
+
+<a href="https://discord.gg/CxTTt5F6Gj"><img src="https://img.shields.io/discord/893301913662148658?label=Discord&logo=discord&logoColor=white" alt="Discord"></a>
