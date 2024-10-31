@@ -10,7 +10,16 @@
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
 </p>
-
+<div id="ice41">
+    
+  <a href="https://ice41.pt">
+    <img alt="Website" src="https://img.shields.io/badge/website-ice41-yellow">
+  </a>
+<br>
+  <a href="mailto:ice41pt@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Contacto-2A3BE8">
+  </a>
+</div>
 <br>
 
 <h3 align="center">A small introduction ✍</h3>
@@ -66,22 +75,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 
 
-
-
-## Contactos Ice41
-
-<br />
-<div id="ice41">
-    
-  <a href="https://ice41.pt">
-    <img alt="Website" src="https://img.shields.io/badge/website-ice41-yellow">
-  </a>
-<br>
-  <a href="mailto:ice41pt@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Contacto-2A3BE8">
-  </a>
-</div>
-<br>
 
 ## Contactos NPED
 <div id="nped">
