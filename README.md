@@ -78,7 +78,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 
 ## Contactos NPED
-<div id="nped">
+<div id="nped" align="center">
   <a href="https://discord.gg/Qsr9s6x9Mv">
     <img alt="Discord" src="https://img.shields.io/discord/1074111566217220176?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FQsr9s6x9Mv">
   </a>
