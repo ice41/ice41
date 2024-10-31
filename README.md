@@ -51,7 +51,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Contacto-2A3BE8">
   </a>
 </div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
 
 ## NPED
 <div id="nped">
