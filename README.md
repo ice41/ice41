@@ -12,7 +12,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-isidoro-59b26b142/">
+  <a href="https://www.linkedin.com/in/eduardo-isidoro-59b26b142">
     <img width="30px" src="https://github.com/GaganpreetKaurKalsi/GaganpreetKaurKalsi/raw/main/assests/linkedin-line.svg"/>
   </a>
   &nbsp;&nbsp;
