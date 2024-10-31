@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i></h1>
+<h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i>
 
   ![Hi! I am Eduardo isidoro -<i>ice41</i>](https://cdn.discordapp.com/attachments/1245551340655214616/1301352219601539092/ice41semfundo.png?ex=67242a33&is=6722d8b3&hm=ec151e48bd252948fd0bb4ae048fa4e277170b41659a4217e5b36b99fd837901&)
-
+</h1>
 
 <br><br>
 <p align="center" style="margin-top:10px">
