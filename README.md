@@ -34,3 +34,36 @@
 </p>
 
 <a href="https://discord.gg/CxTTt5F6Gj"><img src="https://img.shields.io/badge/Discord-NPED-blue?logo=discord&logoColor=white" alt="Discord"></a>
+
+
+
+
+## Ice41
+
+<br />
+<div id="ice41">
+    
+  <a href="https://ice41.pt">
+    <img alt="Website" src="https://img.shields.io/badge/website-ice41-yellow">
+  </a>
+  <br />
+  <a href="mailto:ice41pt@gmail.com">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Contacto-2A3BE8">
+  </a>
+</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## NPED
+<div id="nped">
+  <a href="https://discord.gg/Qsr9s6x9Mv">
+    <img alt="Discord" src="https://img.shields.io/discord/1074111566217220176?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FQsr9s6x9Mv">
+  </a>
+  <br />
+  <a href="https://nped.pt">
+      <img alt="Website" src="https://img.shields.io/badge/website-NPED-blue">
+  </a>
+  <br />
+  <a href="https://steamcommunity.com/groups/Nped">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NPED_STEAM_GROUP-2A2BE8">
+  </a>
+</div>
