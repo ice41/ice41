@@ -23,22 +23,13 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 <br>
 
-
-
-
-<h3 align="center">Back-end developer from Portugal</h3>
-
-- 🔭 I’m currently working on **Logistics operational technician**
-
-- 🌱 I’m currently learning **css,Js,c#**
-
-- 💬 Ask me about **LUA, MySQL, Html, php.**
-
-- 📫 How to reach me **ice41pt@gmail.com / geral@ice41.pt**
-
-- ⚡ Private server programer: web games, Minecraft,Metin2,7daystodie,csgo server,fivem rp server,...
-<p align="left">
+<h3 align="center">A small introduction ✍</h3>
+<p align="center">Hi, I'm Portuguese Back-end developer. I am currently working as an <b>Nacional Traffic Manager</b>. I like programing <b>to Gaming</b>. I have been working on developing tools and games for our community, <a href="https://www.nped.pt"><b>NPED</b></a>
 </p>
+- ⚡ Private server programer: web games, Minecraft,Metin2,7daystodie,csgo server,fivem rp server,...
+<br>
+<br>
+
 <details>
   <summary><b>I work with 👇</b></summary>
 
