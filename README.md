@@ -1,4 +1,35 @@
 ![Hi! I am Eduardo isidoro -<i>ice41</i>](https://cdn.discordapp.com/attachments/1245551340655214616/1301352219601539092/ice41semfundo.png?ex=67242a33&is=6722d8b3&hm=ec151e48bd252948fd0bb4ae048fa4e277170b41659a4217e5b36b99fd837901&)
+
+<br><br>
+<p align="center" style="margin-top:10px">
+<b>
+Welcome to my Github profile!</b> <br>
+Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
+<i>Want to collaborate, reach me below.</i>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gaganpreetkaurkalsi/">
+    <img width="30px" src="/assests/linkedin-line.svg"  />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/GaganpreetKalsi">
+    <img width="28px" src="/assests/twitter-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://www.instagram.com/gagancodes_/">
+    <img width="28px" src="/assests/instagram-line.svg" />
+  </a>  
+  &nbsp;
+  <a href="https://medium.com/@gaganpreetkaurkalsi">
+    <img width="28px" src="/assests/medium-line.svg" />
+  </a> 
+</div>
+<br>
+<br>
+
+
+
 <h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i></h1>
 <h3 align="center">Back-end developer from Portugal</h3>
 
