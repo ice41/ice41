@@ -15,7 +15,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <a href="https://www.linkedin.com/in/eduardo-isidoro-59b26b142">
     <img width="30px" src="https://github.com/GaganpreetKaurKalsi/GaganpreetKaurKalsi/raw/main/assests/linkedin-line.svg"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.ice41.pt">
     <img width="28px" src="https://www.svgrepo.com/show/168793/world-wide-web.svg" />
   </a>  
