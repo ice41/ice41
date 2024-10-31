@@ -16,17 +16,9 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
     <img width="30px" src="https://github.com/GaganpreetKaurKalsi/GaganpreetKaurKalsi/raw/main/assests/linkedin-line.svg"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/GaganpreetKalsi">
-    <img width="28px" src="/assests/twitter-line.svg" />
+  <a href="https://www.ice41.pt">
+    <img width="28px" src="https://www.svgrepo.com/show/168793/world-wide-web.svg" />
   </a>  
-  &nbsp;
-  <a href="https://www.instagram.com/gagancodes_/">
-    <img width="28px" src="/assests/instagram-line.svg" />
-  </a>  
-  &nbsp;
-  <a href="https://medium.com/@gaganpreetkaurkalsi">
-    <img width="28px" src="/assests/medium-line.svg" />
-  </a> 
 </div>
 <br>
 <br>
