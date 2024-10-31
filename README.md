@@ -9,7 +9,7 @@
 <b>
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
-<div id="ice41">
+<div id="ice41" align="center">
     
   <a href="https://ice41.pt">
     <img alt="Website" src="https://img.shields.io/badge/website-ice41-yellow">
