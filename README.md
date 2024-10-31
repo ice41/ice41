@@ -24,9 +24,10 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hi, I'm Portuguese Back-end developer. I am currently working as an <b>Nacional Traffic Manager</b>. I like programing <b>to Gaming</b>. I have been working on developing tools and games for our community, <a href="https://www.nped.pt"><b>NPED</b></a>
+<p align="center">Hi, I'm Portuguese Back-end developer. I am currently working as an <b>Nacional Traffic Manager</b>. I like programing <b>to Gaming</b>. I have been working on developing tools and games for our community, <a href="https://www.nped.pt"><b>NPED</b></a><br>
+  - ⚡ Private server programer: web games, Minecraft,Metin2,7daystodie,csgo server,fivem rp server,...
 </p>
-- ⚡ Private server programer: web games, Minecraft,Metin2,7daystodie,csgo server,fivem rp server,...
+
 <br>
 <br>
 
