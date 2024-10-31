@@ -31,7 +31,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 <br>
 
-<details>
+<details align="center">
   <summary><b>I work with 👇</b></summary>
 
   <br>
@@ -61,7 +61,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </details>
 
 
-<details>
+<details align="center">
   <summary><b>Github Stats 📈</b></summary>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&theme=dark)
