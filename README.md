@@ -71,10 +71,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 </details>
 <p align="center">
-  <a href="https://discord.com/users/261642084463804416/"><img src="https://discord.c99.nl/widget/theme-1/261642084463804416.png" /></a><br>
+  <a href="https://discord.com/users/261642084463804416/"><img src="https://discord.c99.nl/widget/theme-2/261642084463804416.png" /></a><br>
 </p>
-
-
 
 
 <h3 align="center"> Contactos NPED </h3>
