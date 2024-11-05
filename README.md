@@ -64,10 +64,10 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <details align="center">
   <summary><b>Github Stats 📈</b></summary>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice41&show_icons=true&theme=dark)&nbsp;&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ice41&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 
 </details>
 <p align="center">
@@ -79,11 +79,21 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <div id="nped" align="center">
   <a href="https://discord.gg/CxTTt5F6Gj"><img src="https://discord.com/api/guilds/1074111566217220176/widget.png?style=banner2"></a>
 <br>
-  <a href="https://nped.pt">
-      <img alt="Website" src="https://img.shields.io/badge/website-NPED-blue">
-  </a>
-<br>
-  <a href="https://steamcommunity.com/groups/Nped">
-    <img alt="Static Badge" src="https://img.shields.io/badge/NPED_STEAM_GROUP-2A2BE8">
-  </a>
 </div>
+
+  <div align="center">
+    <table border="-10" style="border-collapse: collapse; border: none;">
+      <tr>
+        <td><a href="https://www.facebook.com/nped.pt.official/"><img src="https://i.imgur.com/jrIFEX1.png" height="30" width="30" alt="facebook NPED" title="Facebook NPED"></a></td>
+        <td><a href="https://www.instagram.com/nped.pt/"><img src="https://i.imgur.com/aNF8H7x.png" height="30" width="30" alt="Instagram NPED" title="Instagram NPED"></a></td>
+        <td><a href="#"><img src="https://i.imgur.com/MPYqzXV.png" height="30" width="30" alt="X NPED" title="X NPED"></a></td>
+        <td><a href="https://discord.gg/CxTTt5F6Gj"><img src="https://i.imgur.com/tn4xcXv.png" height="30" width="30" alt="Discord Nped" title="Discord Nped"></a></td>
+        <td><a href="https://github.com/npedpt"><img src="https://i.imgur.com/tc6JSoR.png" height="30" width="30" alt="Github Nped" title="Github Nped"></a></td>
+        <td><a href="https://whatsapp.com/channel/0029VaKsOhhKLaHjpiVDHY3q"><img src="https://i.imgur.com/Qx9VA8Y.png" height="30" width="30" alt="Whatsapp Group NPED" title="Whatsapp Group NPED"></a></td>
+        <td><a href="#"><img src="https://i.imgur.com/l8vUn0y.png" height="30" width="30" alt="Youtube" title="Youtube NPED"></a></td>
+        <td><a href="https://nped.pt"><img src="https://i.imgur.com/7AbqJU4.png" height="30" width="30" alt="WebPage NPED" title="WebPage NPED"></a></td>
+        <td><a href="https://steamcommunity.com/groups/Nped"><img src="https://i.imgur.com/ztzOF0u.png" height="30" width="30" alt="Steam Group NPED" title="Steam Group NPED"></a></td>
+      </tr>
+    </table>
+  </div>
+
