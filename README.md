@@ -67,8 +67,9 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <p align="center">
   <a href="https://discord.com/users/261642084463804416/"><img src="https://discord.c99.nl/widget/theme-2/261642084463804416.png" /></a><br>
 </p>
+<a href="https://www.buymeacoffee.com/ice41"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ice41&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-
+##Community NPED
 <h3 align="center"> Contactos NPED </h3>
 <div id="nped" align="center">
   <a href="https://discord.gg/CxTTt5F6Gj"><img src="https://discord.com/api/guilds/1074111566217220176/widget.png?style=banner4"></a>
