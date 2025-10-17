@@ -72,12 +72,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
 </div>
-<div align="center"><a href="https://github.com/sponsors/ice41/card">
-  <img src="https://github.com/sponsors/ice41/card" height="225" width="600"/>
-</a>
-</div>
-github: [ice41]
-
 
 ## Community NPED
 <h3 align="center"> Contactos NPED </h3>
