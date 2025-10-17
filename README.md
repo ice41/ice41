@@ -71,8 +71,12 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <div align="center"><a href="https://www.buymeacoffee.com/ice41">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
-  <iframe src="https://github.com/sponsors/ice41/card" title="Sponsor ice41" height="225" width="600" style="border: 0;"></iframe>
 </div>
+<div align="center"><a href="https://github.com/sponsors/ice41/card">
+  <img src="https://github.com/sponsors/ice41/card" height="225" width="600"/>
+</a>
+</div>
+<iframe src="https://github.com/sponsors/ice41/card" title="Sponsor ice41" height="225" width="600" style="border: 0;"></iframe>
 
 
 ## Community NPED
