@@ -76,7 +76,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <img src="https://github.com/sponsors/ice41/card" height="225" width="600"/>
 </a>
 </div>
-<iframe src="https://github.com/sponsors/ice41/card" title="Sponsor ice41" height="225" width="600" style="border: 0;"></iframe>
+github: [ice41]
 
 
 ## Community NPED
