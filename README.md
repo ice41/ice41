@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo isidoro -<i>ice41</i>
 
-  ![Hi! I am Eduardo isidoro -<i>ice41</i>](https://i.imgur.com/tqh0Beq.png)<br>
+  ![Hi! I am Eduardo -<i>ice41</i>](https://i.imgur.com/tqh0Beq.png)<br>
   <img src="https://komarev.com/ghpvc/?username=ice41" alt=""/>
 </h1>
 
